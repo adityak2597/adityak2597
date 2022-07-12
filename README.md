@@ -1,0 +1,5 @@
+- @adityak2597
+- 👋 Hi, I’m Aditya
+- 👀 I’m interested in codes that look clean
+- 🌱 I’m currently learning Java Script & C#
+- 📫 How to reach me : mail id: aditya.kamat0@gmail.com
